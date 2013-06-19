@@ -1,0 +1,9 @@
+one:
+  created_by_id: 1
+  title: MyString
+  body: MyText
+
+two:
+  created_by_id: 1
+  title: MyString
+  body: MyText
